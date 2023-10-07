@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisrajan&label=Profile%20views&color=0e75b6&style=flat" alt="raisrajan" /> </p>
 
+[![Srajan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srajan&layout=compact&theme=discord_old_blurple)](https://wakatime.com/@srajan)
+
 - 🔭 I’m currently working on [Project Name](Project Link)
 
 - 🌱 I’m currently learning **Frameworks, Courses**
